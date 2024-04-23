@@ -121,6 +121,10 @@ body{
         margin-right: 2px;
         font-size: 18px;
     }
+
+    .search button{
+        height:50px;
+    }
     
     
 }
