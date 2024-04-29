@@ -118,12 +118,12 @@ body{
         height: 60px;
         border-radius: 30px;
         flex: 1;
-        margin-right: 2px;
+        margin-right:12px;
         font-size: 18px;
     }
 
     .search button{
-        height:50px;
+        height:57px;
     }
     
     
